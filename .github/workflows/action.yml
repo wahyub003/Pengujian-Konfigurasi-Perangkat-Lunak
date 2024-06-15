@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: wahbu3/image-tugas-pkpl:latest
+          tags: wahbu3/learn-action:latest
